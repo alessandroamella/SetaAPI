@@ -1,0 +1,1745 @@
+[
+  {
+    "stopName": "MO1005",
+    "stopId": "Maranello Auditorium",
+    "lines": [
+      "800"
+    ]
+  },
+  {
+    "stopName": "MO1077",
+    "stopId": "Fanti FS",
+    "lines": [
+      "12"
+    ]
+  },
+  {
+    "stopName": "MO1131",
+    "stopId": "Medolla",
+    "lines": [
+      "420"
+    ]
+  },
+  {
+    "stopName": "MO12",
+    "stopId": "Rimembranze ex Questura",
+    "lines": [
+      "740"
+    ]
+  },
+  {
+    "stopName": "MO1253",
+    "stopId": "Pioppa Talbignano",
+    "lines": [
+      "610"
+    ]
+  },
+  {
+    "stopName": "MO1254",
+    "stopId": "Talbignano poste",
+    "lines": [
+      "610"
+    ]
+  },
+  {
+    "stopName": "MO1256",
+    "stopId": "Talbignano rimessa",
+    "lines": [
+      "610"
+    ]
+  },
+  {
+    "stopName": "MO13",
+    "stopId": "Emilia Ovest bv Autodromo",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "stopName": "MO133",
+    "stopId": "Cavezzo stazione",
+    "lines": [
+      "450"
+    ]
+  },
+  {
+    "stopName": "MO135",
+    "stopId": "Cucchiari bv Manzoni",
+    "lines": [
+      "3"
+    ]
+  },
+  {
+    "stopName": "MO136",
+    "stopId": "Menotti bv Puccini",
+    "lines": [
+      "9"
+    ]
+  },
+  {
+    "stopName": "MO143",
+    "stopId": "Nonantolana",
+    "lines": [
+      "410"
+    ]
+  },
+  {
+    "stopName": "MO148",
+    "stopId": "GOTTARDI (cap. 9)",
+    "lines": [
+      "9"
+    ]
+  },
+  {
+    "stopName": "MO149",
+    "stopId": "GOTTARDI (cap. 7)",
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "stopName": "MO1504",
+    "stopId": "Formigine cartiera",
+    "lines": [
+      "815"
+    ]
+  },
+  {
+    "stopName": "MO1640",
+    "stopId": "Ubersetto",
+    "lines": [
+      "800"
+    ]
+  },
+  {
+    "stopName": "MO165",
+    "stopId": "Medaglie D'oro",
+    "lines": [
+      "3B"
+    ]
+  },
+  {
+    "stopName": "MO1653",
+    "stopId": "Sassoguidano bv",
+    "lines": [
+      "720"
+    ]
+  },
+  {
+    "stopName": "MO1655",
+    "stopId": "Casa Dell'Oste",
+    "lines": [
+      "720"
+    ]
+  },
+  {
+    "stopName": "MO1657",
+    "stopId": "Verica Stazione",
+    "lines": [
+      "720"
+    ]
+  },
+  {
+    "stopName": "MO1684",
+    "stopId": "Gavello Mulino",
+    "lines": [
+      "640"
+    ]
+  },
+  {
+    "stopName": "MO171",
+    "stopId": "Ferrari",
+    "lines": [
+      "9C"
+    ]
+  },
+  {
+    "stopName": "MO1774",
+    "stopId": "Casa Barduzzi Olina",
+    "lines": [
+      "845"
+    ]
+  },
+  {
+    "stopName": "MO1776",
+    "stopId": "Baldina",
+    "lines": [
+      "845"
+    ]
+  },
+  {
+    "stopName": "MO1778",
+    "stopId": "Ca' D'Olina",
+    "lines": [
+      "845"
+    ]
+  },
+  {
+    "stopName": "MO1781",
+    "stopId": "Alpino",
+    "lines": [
+      "845"
+    ]
+  },
+  {
+    "stopName": "MO1793",
+    "stopId": "Monte Ritorno",
+    "lines": [
+      "810"
+    ]
+  },
+  {
+    "stopName": "MO1794",
+    "stopId": "Monte Scarpone",
+    "lines": [
+      "810"
+    ]
+  },
+  {
+    "stopName": "MO1795",
+    "stopId": "Montecenere",
+    "lines": [
+      "810"
+    ]
+  },
+  {
+    "stopName": "MO181",
+    "stopId": "Fabrizi",
+    "lines": [
+      "3B"
+    ]
+  },
+  {
+    "stopName": "MO1911",
+    "stopId": "Casa Ferrari",
+    "lines": [
+      "840"
+    ]
+  },
+  {
+    "stopName": "MO1913",
+    "stopId": "Ca Vignali",
+    "lines": [
+      "840"
+    ]
+  },
+  {
+    "stopName": "MO1917",
+    "stopId": "Prugneto",
+    "lines": [
+      "840"
+    ]
+  },
+  {
+    "stopName": "MO1924",
+    "stopId": "Montardone",
+    "lines": [
+      "800"
+    ]
+  },
+  {
+    "stopName": "MO1926",
+    "stopId": "Montardoncino",
+    "lines": [
+      "800"
+    ]
+  },
+  {
+    "stopName": "MO20",
+    "stopId": "Risorgimento",
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "stopName": "MO2037",
+    "stopId": "Bandita",
+    "lines": [
+      "840"
+    ]
+  },
+  {
+    "stopName": "MO2046",
+    "stopId": "Sant'Eusebio bv",
+    "lines": [
+      "640"
+    ]
+  },
+  {
+    "stopName": "MO2048",
+    "stopId": "Caseificio Rola",
+    "lines": [
+      "640"
+    ]
+  },
+  {
+    "stopName": "MO2100",
+    "stopId": "Medolla",
+    "lines": [
+      "420"
+    ]
+  },
+  {
+    "stopName": "MO2144",
+    "stopId": "Palazzina",
+    "lines": [
+      "630"
+    ]
+  },
+  {
+    "stopName": "MO2146",
+    "stopId": "Serramazzoni bv",
+    "lines": [
+      "630"
+    ]
+  },
+  {
+    "stopName": "MO2182",
+    "stopId": "Costaglie",
+    "lines": [
+      "800"
+    ]
+  },
+  {
+    "stopName": "MO219",
+    "stopId": "Campi Universita",
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "stopName": "MO2231",
+    "stopId": "Gherbella 2",
+    "lines": [
+      "740"
+    ]
+  },
+  {
+    "stopName": "MO225",
+    "stopId": "Poliambulatorio",
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "stopName": "MO2273",
+    "stopId": "Prampolini",
+    "lines": [
+      "A"
+    ]
+  },
+  {
+    "stopName": "MO2275",
+    "stopId": "Matteotti bv 2 Madonne",
+    "lines": [
+      "B"
+    ]
+  },
+  {
+    "stopName": "MO2277",
+    "stopId": "28 Settembre",
+    "lines": [
+      "B"
+    ]
+  },
+  {
+    "stopName": "MO23",
+    "stopId": "Canaletto bv Soratore",
+    "lines": [
+      "400"
+    ]
+  },
+  {
+    "stopName": "MO2306",
+    "stopId": "Sassuolo Terminal",
+    "lines": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "stopName": "MO2307",
+    "stopId": "Borgo Venezia",
+    "lines": [
+      "A"
+    ]
+  },
+  {
+    "stopName": "MO231",
+    "stopId": "Patriarca",
+    "lines": [
+      "731"
+    ]
+  },
+  {
+    "stopName": "MO2311",
+    "stopId": "Gramsci",
+    "lines": [
+      "A"
+    ]
+  },
+  {
+    "stopName": "MO2313",
+    "stopId": "Mazzini",
+    "lines": [
+      "C"
+    ]
+  },
+  {
+    "stopName": "MO2339",
+    "stopId": "Romano",
+    "lines": [
+      "670"
+    ]
+  },
+  {
+    "stopName": "MO237",
+    "stopId": "La Carovana scuole",
+    "lines": [
+      "6B"
+    ]
+  },
+  {
+    "stopName": "MO2377",
+    "stopId": "Largo Verona",
+    "lines": [
+      "640"
+    ]
+  },
+  {
+    "stopName": "MO238",
+    "stopId": "Piave",
+    "lines": [
+      "9C"
+    ]
+  },
+  {
+    "stopName": "MO2422",
+    "stopId": "Casa Cavallaro",
+    "lines": [
+      "830"
+    ]
+  },
+  {
+    "stopName": "MO2424",
+    "stopId": "Casa Zoppo",
+    "lines": [
+      "830"
+    ]
+  },
+  {
+    "stopName": "MO2430",
+    "stopId": "Casona bv",
+    "lines": [
+      "830"
+    ]
+  },
+  {
+    "stopName": "MO2460",
+    "stopId": "Ca' del Fabbro",
+    "lines": [
+      "720"
+    ]
+  },
+  {
+    "stopName": "MO2467",
+    "stopId": "Marzabotto",
+    "lines": [
+      "A"
+    ]
+  },
+  {
+    "stopName": "MO2534",
+    "stopId": "Gorizia",
+    "lines": [
+      "C"
+    ]
+  },
+  {
+    "stopName": "MO2539",
+    "stopId": "Giardini carcere",
+    "lines": [
+      "13",
+      "670"
+    ]
+  },
+  {
+    "stopName": "MO255",
+    "stopId": "Ugo da Carpi",
+    "lines": [
+      "535"
+    ]
+  },
+  {
+    "stopName": "MO2554",
+    "stopId": "Roma",
+    "lines": [
+      "550"
+    ]
+  },
+  {
+    "stopName": "MO2575",
+    "stopId": "Monte Kosica bv Ganaceto",
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "stopName": "MO2587",
+    "stopId": "Caduti in guerra Tempio",
+    "lines": [
+      "12"
+    ]
+  },
+  {
+    "stopName": "MO2594",
+    "stopId": "Ospedale Estense",
+    "lines": [
+      "740"
+    ]
+  },
+  {
+    "stopName": "MO2606",
+    "stopId": "Pelusia",
+    "lines": [
+      "1B"
+    ]
+  },
+  {
+    "stopName": "MO2611",
+    "stopId": "Caduti in guerra giardini",
+    "lines": [
+      "12"
+    ]
+  },
+  {
+    "stopName": "MO2625",
+    "stopId": "Nonantolana scuole",
+    "lines": [
+      "410"
+    ]
+  },
+  {
+    "stopName": "MO2627",
+    "stopId": "Nonantolana bv Cuboni",
+    "lines": [
+      "3B"
+    ]
+  },
+  {
+    "stopName": "MO2629",
+    "stopId": "Nonantolana bv Crocetta",
+    "lines": [
+      "410"
+    ]
+  },
+  {
+    "stopName": "MO2659",
+    "stopId": "Del Pozzo",
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "stopName": "MO2661",
+    "stopId": "Araldi bv Speri",
+    "lines": [
+      "9"
+    ]
+  },
+  {
+    "stopName": "MO2662",
+    "stopId": "Braglia",
+    "lines": [
+      "700"
+    ]
+  },
+  {
+    "stopName": "MO2664",
+    "stopId": "Oratorio",
+    "lines": [
+      "700"
+    ]
+  },
+  {
+    "stopName": "MO2666",
+    "stopId": "Monte Cresce",
+    "lines": [
+      "700"
+    ]
+  },
+  {
+    "stopName": "MO2673",
+    "stopId": "Pancaldi bv Cimarosa",
+    "lines": [
+      "1B"
+    ]
+  },
+  {
+    "stopName": "MO2701",
+    "stopId": "Sitma",
+    "lines": [
+      "731"
+    ]
+  },
+  {
+    "stopName": "MO2716",
+    "stopId": "Speri autolavaggio",
+    "lines": [
+      "9"
+    ]
+  },
+  {
+    "stopName": "MO2724",
+    "stopId": "Marzabotto",
+    "lines": [
+      "2"
+    ]
+  },
+  {
+    "stopName": "MO2728",
+    "stopId": "La Spezia bv Vignolese",
+    "lines": [
+      "3"
+    ]
+  },
+  {
+    "stopName": "MO2783",
+    "stopId": "F.lli Rosselli villa Rosa",
+    "lines": [
+      "6B"
+    ]
+  },
+  {
+    "stopName": "MO2784",
+    "stopId": "F.lli Rosselli bv Conco",
+    "lines": [
+      "6B"
+    ]
+  },
+  {
+    "stopName": "MO2786",
+    "stopId": "Ospedale Sassuolo",
+    "lines": [
+      "640"
+    ]
+  },
+  {
+    "stopName": "MO2791",
+    "stopId": "Medaglie D'oro bv Bellinzona",
+    "lines": [
+      "3"
+    ]
+  },
+  {
+    "stopName": "MO2813",
+    "stopId": "Casalegno rotonda",
+    "lines": [
+      "5A"
+    ]
+  },
+  {
+    "stopName": "MO2827",
+    "stopId": "Direzionale 70",
+    "lines": [
+      "670"
+    ]
+  },
+  {
+    "stopName": "MO2863",
+    "stopId": "Ferrari bv Soli",
+    "lines": [
+      "9C"
+    ]
+  },
+  {
+    "stopName": "MO2883",
+    "stopId": "Marconi bv Corassori",
+    "lines": [
+      "1B"
+    ]
+  },
+  {
+    "stopName": "MO2885",
+    "stopId": "Istituto Cattaneo",
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "stopName": "MO2887",
+    "stopId": "Istituto Guarini",
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "stopName": "MO2892",
+    "stopId": "Da Vinci bv Newton",
+    "lines": [
+      "12"
+    ]
+  },
+  {
+    "stopName": "MO2898",
+    "stopId": "Formigina bv Lagrange",
+    "lines": [
+      "1B"
+    ]
+  },
+  {
+    "stopName": "MO2901",
+    "stopId": "Formigina bv Cannizzaro",
+    "lines": [
+      "1B"
+    ]
+  },
+  {
+    "stopName": "MO2930",
+    "stopId": "Savoniero",
+    "lines": [
+      "610"
+    ]
+  },
+  {
+    "stopName": "MO2932",
+    "stopId": "Savoniero bv",
+    "lines": [
+      "610"
+    ]
+  },
+  {
+    "stopName": "MO2989",
+    "stopId": "Emilio Po bv De Gavasseti",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "stopName": "MO2991",
+    "stopId": "Emilio Po Panini",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "stopName": "MO2993",
+    "stopId": "Palazzo Europa",
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "stopName": "MO2999",
+    "stopId": "Emilia Ovest Hotel Eden",
+    "lines": [
+      "9A"
+    ]
+  },
+  {
+    "stopName": "MO3007",
+    "stopId": "Liguria",
+    "lines": [
+      "rossa"
+    ]
+  },
+  {
+    "stopName": "MO301",
+    "stopId": "Malcantone",
+    "lines": [
+      "400"
+    ]
+  },
+  {
+    "stopName": "MO303",
+    "stopId": "MODENA AUTOSTAZIONE (Corriere corsia 2)",
+    "lines": [
+      "800",
+      "820"
+    ]
+  },
+  {
+    "stopName": "MO3031",
+    "stopId": "Cattania",
+    "lines": [
+      "rossa"
+    ]
+  },
+  {
+    "stopName": "MO3049",
+    "stopId": "Pini",
+    "lines": [
+      "rossa"
+    ]
+  },
+  {
+    "stopName": "MO3069",
+    "stopId": "Centro Senada",
+    "lines": [
+      "9A"
+    ]
+  },
+  {
+    "stopName": "MO3078",
+    "stopId": "Salgari",
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "stopName": "MO3093",
+    "stopId": "Emilia Ovest Comet",
+    "lines": [
+      "9A"
+    ]
+  },
+  {
+    "stopName": "MO3113",
+    "stopId": "Lenin 2",
+    "lines": [
+      "verde"
+    ]
+  },
+  {
+    "stopName": "MO3121",
+    "stopId": "Centro Commerciale 2000",
+    "lines": [
+      "9A"
+    ]
+  },
+  {
+    "stopName": "MO3147",
+    "stopId": "Sant'Anna bv Suore",
+    "lines": [
+      "13"
+    ]
+  },
+  {
+    "stopName": "MO3161",
+    "stopId": "25 aprile",
+    "lines": [
+      "verde"
+    ]
+  },
+  {
+    "stopName": "MO3224",
+    "stopId": "Gorizia",
+    "lines": [
+      "blu"
+    ]
+  },
+  {
+    "stopName": "MO3237",
+    "stopId": "Giardini bv Cimabue 1",
+    "lines": [
+      "13"
+    ]
+  },
+  {
+    "stopName": "MO3239",
+    "stopId": "Maranello Grizzaga",
+    "lines": [
+      "800"
+    ]
+  },
+  {
+    "stopName": "MO326",
+    "stopId": "Monumento",
+    "lines": [
+      "420"
+    ]
+  },
+  {
+    "stopName": "MO327",
+    "stopId": "Villa Zuccoli",
+    "lines": [
+      "420"
+    ]
+  },
+  {
+    "stopName": "MO329",
+    "stopId": "Villa Nasi",
+    "lines": [
+      "420"
+    ]
+  },
+  {
+    "stopName": "MO331",
+    "stopId": "Ponte Basso",
+    "lines": [
+      "400"
+    ]
+  },
+  {
+    "stopName": "MO3317",
+    "stopId": "Casa Pattarozzi",
+    "lines": [
+      "840"
+    ]
+  },
+  {
+    "stopName": "MO3322",
+    "stopId": "Ponte Prugneto",
+    "lines": [
+      "840"
+    ]
+  },
+  {
+    "stopName": "MO3325",
+    "stopId": "Casa Bettini",
+    "lines": [
+      "840"
+    ]
+  },
+  {
+    "stopName": "MO3326",
+    "stopId": "La Maesta",
+    "lines": [
+      "840"
+    ]
+  },
+  {
+    "stopName": "MO3400",
+    "stopId": "Ravarino",
+    "lines": [
+      "410"
+    ]
+  },
+  {
+    "stopName": "MO3407",
+    "stopId": "Cuneo 2",
+    "lines": [
+      "blu"
+    ]
+  },
+  {
+    "stopName": "MO3411",
+    "stopId": "Mondine",
+    "lines": [
+      "gialla"
+    ]
+  },
+  {
+    "stopName": "MO3414",
+    "stopId": "Parmenide",
+    "lines": [
+      "gialla"
+    ]
+  },
+  {
+    "stopName": "MO3436",
+    "stopId": "Mulini",
+    "lines": [
+      "720"
+    ]
+  },
+  {
+    "stopName": "MO3442",
+    "stopId": "Roosevelt",
+    "lines": [
+      "verde"
+    ]
+  },
+  {
+    "stopName": "MO3444",
+    "stopId": "Ramazzini 1",
+    "lines": [
+      "verde"
+    ]
+  },
+  {
+    "stopName": "MO3445",
+    "stopId": "Samone bv Serra",
+    "lines": [
+      "710"
+    ]
+  },
+  {
+    "stopName": "MO3471",
+    "stopId": "MARANELLO TERMINAL",
+    "lines": [
+      "640"
+    ]
+  },
+  {
+    "stopName": "MO3485",
+    "stopId": "Rubiera",
+    "lines": [
+      "9C"
+    ]
+  },
+  {
+    "stopName": "MO3528",
+    "stopId": "Chiocciola",
+    "lines": [
+      "720"
+    ]
+  },
+  {
+    "stopName": "MO3539",
+    "stopId": "Magazzino bv",
+    "lines": [
+      "760"
+    ]
+  },
+  {
+    "stopName": "MO3552",
+    "stopId": "Maesta",
+    "lines": [
+      "840"
+    ]
+  },
+  {
+    "stopName": "MO3554",
+    "stopId": "Il Piano",
+    "lines": [
+      "840"
+    ]
+  },
+  {
+    "stopName": "MO3606",
+    "stopId": "Marinetti",
+    "lines": [
+      "8"
+    ]
+  },
+  {
+    "stopName": "MO3609",
+    "stopId": "Marinetti",
+    "lines": [
+      "8"
+    ]
+  },
+  {
+    "stopName": "MO3616",
+    "stopId": "Raffaello",
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "stopName": "MO3671",
+    "stopId": "Giardini La Bugia",
+    "lines": [
+      "13"
+    ]
+  },
+  {
+    "stopName": "MO3675",
+    "stopId": "Giardini bv San Marone",
+    "lines": [
+      "13"
+    ]
+  },
+  {
+    "stopName": "MO3681",
+    "stopId": "Giardini bv Cimabue 1",
+    "lines": [
+      "11",
+      "670"
+    ]
+  },
+  {
+    "stopName": "MO37",
+    "stopId": "Ganaceto",
+    "lines": [
+      "500"
+    ]
+  },
+  {
+    "stopName": "MO3761",
+    "stopId": "Ponte Capraio",
+    "lines": [
+      "720"
+    ]
+  },
+  {
+    "stopName": "MO3818",
+    "stopId": "Ex Ferrovia",
+    "lines": [
+      "12"
+    ]
+  },
+  {
+    "stopName": "MO3998",
+    "stopId": "Risorgimento",
+    "lines": [
+      "640"
+    ]
+  },
+  {
+    "stopName": "MO4",
+    "stopId": "Risorgimento",
+    "lines": [
+      "740"
+    ]
+  },
+  {
+    "stopName": "MO4200",
+    "stopId": "Serramazzoni",
+    "lines": [
+      "630"
+    ]
+  },
+  {
+    "stopName": "MO4500",
+    "stopId": "Spilamberto",
+    "lines": [
+      "731"
+    ]
+  },
+  {
+    "stopName": "MO4506",
+    "stopId": "Vignola Autostazione",
+    "lines": [
+      "731"
+    ]
+  },
+  {
+    "stopName": "MO4508",
+    "stopId": "Vignola Autostazione",
+    "lines": [
+      "760"
+    ]
+  },
+  {
+    "stopName": "MO483",
+    "stopId": "Due Colonne",
+    "lines": [
+      "520"
+    ]
+  },
+  {
+    "stopName": "MO485",
+    "stopId": "Viazzolo",
+    "lines": [
+      "520"
+    ]
+  },
+  {
+    "stopName": "MO487",
+    "stopId": "Caseificio",
+    "lines": [
+      "520"
+    ]
+  },
+  {
+    "stopName": "MO488",
+    "stopId": "Medolla Autostazione",
+    "lines": [
+      "420"
+    ]
+  },
+  {
+    "stopName": "MO4904",
+    "stopId": "Cappuccini",
+    "lines": [
+      "550"
+    ]
+  },
+  {
+    "stopName": "MO5003",
+    "stopId": "MODENA AUTOSTAZIONE (lato Novi Park)",
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "stopName": "MO5112",
+    "stopId": "GARIBALDI (Storchi dir. Centro)",
+    "lines": [
+      "740"
+    ]
+  },
+  {
+    "stopName": "MO523",
+    "stopId": "CARPI TERMINAL BUS",
+    "lines": [
+      "535"
+    ]
+  },
+  {
+    "stopName": "MO555",
+    "stopId": "Attiraglio",
+    "lines": [
+      "12"
+    ]
+  },
+  {
+    "stopName": "MO556",
+    "stopId": "Attiraglio",
+    "lines": [
+      "3B"
+    ]
+  },
+  {
+    "stopName": "MO570",
+    "stopId": "San Felice stadio",
+    "lines": [
+      "430"
+    ]
+  },
+  {
+    "stopName": "MO5701",
+    "stopId": "Magazzino",
+    "lines": [
+      "760"
+    ]
+  },
+  {
+    "stopName": "MO576",
+    "stopId": "Canaletto Fiat",
+    "lines": [
+      "400"
+    ]
+  },
+  {
+    "stopName": "MO6014",
+    "stopId": "Canaletto Coop",
+    "lines": [
+      "11"
+    ]
+  },
+  {
+    "stopName": "MO6117",
+    "stopId": "Monte Kosica bv Ganaceto",
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "stopName": "MO6119",
+    "stopId": "STAZIONE FS (Corsia 4)",
+    "lines": [
+      "3B"
+    ]
+  },
+  {
+    "stopName": "MO6134",
+    "stopId": "STAZIONE FS (Corsia 3)",
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "stopName": "MO6150",
+    "stopId": "Caduti in guerra orto botanico",
+    "lines": [
+      "3B"
+    ]
+  },
+  {
+    "stopName": "MO6156",
+    "stopId": "Prefettura",
+    "lines": [
+      "12"
+    ]
+  },
+  {
+    "stopName": "MO6165",
+    "stopId": "Rimembranze bv Selmi",
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "stopName": "MO6166",
+    "stopId": "Rimembranze bv Canalchiaro",
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "stopName": "MO6171",
+    "stopId": "Vittorio Veneto bv Trombi",
+    "lines": [
+      "5",
+      "6"
+    ]
+  },
+  {
+    "stopName": "MO6182",
+    "stopId": "Caduti in guerra giardini",
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "stopName": "MO6247",
+    "stopId": "Albareto bv Cimone",
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "stopName": "MO6249",
+    "stopId": "Albareto scuola Gramsci",
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "stopName": "MO6255",
+    "stopId": "Albareto bv Tagliati",
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "stopName": "MO628",
+    "stopId": "Cantina",
+    "lines": [
+      "500"
+    ]
+  },
+  {
+    "stopName": "MO6301",
+    "stopId": "Emilia Est Aci",
+    "lines": [
+      "9"
+    ]
+  },
+  {
+    "stopName": "MO6303",
+    "stopId": "Emilia Est bv S.Giovanni Bosco",
+    "lines": [
+      "9"
+    ]
+  },
+  {
+    "stopName": "MO6311",
+    "stopId": "Policlinico",
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "stopName": "MO6366",
+    "stopId": "Toscanini",
+    "lines": [
+      "1A"
+    ]
+  },
+  {
+    "stopName": "MO6374",
+    "stopId": "GAZZOTTI",
+    "lines": [
+      "8"
+    ]
+  },
+  {
+    "stopName": "MO6398",
+    "stopId": "Emilia Est bv Fusco",
+    "lines": [
+      "1A"
+    ]
+  },
+  {
+    "stopName": "MO6500",
+    "stopId": "Esselunga",
+    "lines": [
+      "B"
+    ]
+  },
+  {
+    "stopName": "MO6501",
+    "stopId": "Sigonio bv Tamburini",
+    "lines": [
+      "6"
+    ]
+  },
+  {
+    "stopName": "MO6505",
+    "stopId": "Buon Pastore Portici",
+    "lines": [
+      "6"
+    ]
+  },
+  {
+    "stopName": "MO6557",
+    "stopId": "Dalla Chiesa bv Tobagi",
+    "lines": [
+      "5A"
+    ]
+  },
+  {
+    "stopName": "MO6559",
+    "stopId": "L A TORRE",
+    "lines": [
+      "5A"
+    ]
+  },
+  {
+    "stopName": "MO658",
+    "stopId": "Ganaceto scuole",
+    "lines": [
+      "500"
+    ]
+  },
+  {
+    "stopName": "MO6611",
+    "stopId": "Direzionale 70",
+    "lines": [
+      "13"
+    ]
+  },
+  {
+    "stopName": "MO6618",
+    "stopId": "ZODIACO",
+    "lines": [
+      "11"
+    ]
+  },
+  {
+    "stopName": "MO6629",
+    "stopId": "Giardini bv San Marone",
+    "lines": [
+      "13"
+    ]
+  },
+  {
+    "stopName": "MO6631",
+    "stopId": "Saliceta San Giuliano",
+    "lines": [
+      "13"
+    ]
+  },
+  {
+    "stopName": "MO6653",
+    "stopId": "Guarini bv Venturi",
+    "lines": [
+      "8"
+    ]
+  },
+  {
+    "stopName": "MO6659",
+    "stopId": "Gaurini bv Bianchi Ferrari",
+    "lines": [
+      "8"
+    ]
+  },
+  {
+    "stopName": "MO6665",
+    "stopId": "Pisano",
+    "lines": [
+      "8"
+    ]
+  },
+  {
+    "stopName": "MO6704",
+    "stopId": "Istituto Cattaneo",
+    "lines": [
+      "1B"
+    ]
+  },
+  {
+    "stopName": "MO671",
+    "stopId": "Vignolese Universita",
+    "lines": [
+      "2"
+    ]
+  },
+  {
+    "stopName": "MO673",
+    "stopId": "Vignolese bv La Spezia",
+    "lines": [
+      "2",
+      "3"
+    ]
+  },
+  {
+    "stopName": "MO6733",
+    "stopId": "Formigina bv Cannizzaro",
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "stopName": "MO6780",
+    "stopId": "Corassori polisportiva",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "stopName": "MO6783",
+    "stopId": "POLO LEONARDO (Strada)",
+    "lines": [
+      "12"
+    ]
+  },
+  {
+    "stopName": "MO6805",
+    "stopId": "Paolo Ruffini",
+    "lines": [
+      "2"
+    ]
+  },
+  {
+    "stopName": "MO6809",
+    "stopId": "Costa  sottopasso cimitero",
+    "lines": [
+      "2"
+    ]
+  },
+  {
+    "stopName": "MO6813",
+    "stopId": "Autodromo",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "stopName": "MO6830",
+    "stopId": "Nazionale per Carpi",
+    "lines": [
+      "2"
+    ]
+  },
+  {
+    "stopName": "MO6873",
+    "stopId": "Virgilio capolinea",
+    "lines": [
+      "9"
+    ]
+  },
+  {
+    "stopName": "MO6878",
+    "stopId": "De' Gavasseti",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "stopName": "MO6886",
+    "stopId": "D'Avia bv Silone",
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "stopName": "MO6888",
+    "stopId": "D'AVIA",
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "stopName": "MO6908",
+    "stopId": "Gramsci bv Donati",
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "stopName": "MO6909",
+    "stopId": "GRAMSCI",
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "stopName": "MO6910",
+    "stopId": "SANT'ANNA CAPOLINEA",
+    "lines": [
+      "13"
+    ]
+  },
+  {
+    "stopName": "MO6915",
+    "stopId": "Scuole Marconi",
+    "lines": [
+      "11"
+    ]
+  },
+  {
+    "stopName": "MO6971",
+    "stopId": "Cavezzo Centro",
+    "lines": [
+      "450"
+    ]
+  },
+  {
+    "stopName": "MO7002",
+    "stopId": "Pista",
+    "lines": [
+      "rossa"
+    ]
+  },
+  {
+    "stopName": "MO7007",
+    "stopId": "Fedro",
+    "lines": [
+      "gialla"
+    ]
+  },
+  {
+    "stopName": "MO7012",
+    "stopId": "Venturelli",
+    "lines": [
+      "gialla"
+    ]
+  },
+  {
+    "stopName": "MO7033",
+    "stopId": "Palladio",
+    "lines": [
+      "blu"
+    ]
+  },
+  {
+    "stopName": "MO723",
+    "stopId": "Paganine Unibon",
+    "lines": [
+      "740"
+    ]
+  },
+  {
+    "stopName": "MO724",
+    "stopId": "Paganine centro",
+    "lines": [
+      "740"
+    ]
+  },
+  {
+    "stopName": "MO728",
+    "stopId": "Dini bv",
+    "lines": [
+      "675"
+    ]
+  },
+  {
+    "stopName": "MO729",
+    "stopId": "Tabina",
+    "lines": [
+      "675"
+    ]
+  },
+  {
+    "stopName": "MO731",
+    "stopId": "Magreta crociale",
+    "lines": [
+      "675"
+    ]
+  },
+  {
+    "stopName": "MO735",
+    "stopId": "Formigine",
+    "lines": [
+      "800"
+    ]
+  },
+  {
+    "stopName": "MO763",
+    "stopId": "Corlo",
+    "lines": [
+      "670"
+    ]
+  },
+  {
+    "stopName": "MO764",
+    "stopId": "Grazia",
+    "lines": [
+      "670"
+    ]
+  },
+  {
+    "stopName": "MO770",
+    "stopId": "Bomporto monumento",
+    "lines": [
+      "410"
+    ]
+  },
+  {
+    "stopName": "MO778",
+    "stopId": "Lar",
+    "lines": [
+      "800",
+      "815"
+    ]
+  },
+  {
+    "stopName": "MO792",
+    "stopId": "Casa Baraldi",
+    "lines": [
+      "410"
+    ]
+  },
+  {
+    "stopName": "MO810",
+    "stopId": "Rocchetta bv",
+    "lines": [
+      "410"
+    ]
+  },
+  {
+    "stopName": "MO820",
+    "stopId": "Rami",
+    "lines": [
+      "410"
+    ]
+  },
+  {
+    "stopName": "MO825",
+    "stopId": "Picchio Rosso",
+    "lines": [
+      "800"
+    ]
+  },
+  {
+    "stopName": "MO8307",
+    "stopId": "Remesina 3",
+    "lines": [
+      "blu"
+    ]
+  },
+  {
+    "stopName": "MO8533",
+    "stopId": "Nuova Ponente",
+    "lines": [
+      "verde"
+    ]
+  },
+  {
+    "stopName": "MO89",
+    "stopId": "Respighi bv Bazzini",
+    "lines": [
+      "1A"
+    ]
+  },
+  {
+    "stopName": "MO898",
+    "stopId": "Viazza bv",
+    "lines": [
+      "760"
+    ]
+  },
+  {
+    "stopName": "MO9",
+    "stopId": "GARIBALDI (lato Caduti in Guerra)",
+    "lines": [
+      "12"
+    ]
+  },
+  {
+    "stopName": "MO93",
+    "stopId": "Saliceto Panaro bv Borri",
+    "lines": [
+      "1B"
+    ]
+  },
+  {
+    "stopName": "MO939",
+    "stopId": "California",
+    "lines": [
+      "760"
+    ]
+  },
+  {
+    "stopName": "MOPV1000",
+    "stopId": "Autostazione",
+    "lines": [
+      "SCPV"
+    ]
+  }
+]

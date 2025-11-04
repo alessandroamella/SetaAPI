@@ -1,0 +1,371 @@
+[
+  {
+    "line": "1",
+    "codes": [
+      "MO1-As-153"
+    ]
+  },
+  {
+    "line": "1A",
+    "codes": [
+      "MO1-As-149"
+    ]
+  },
+  {
+    "line": "1B",
+    "codes": [
+      "MO1-Di-145"
+    ]
+  },
+  {
+    "line": "2",
+    "codes": [
+      "MO2-As-220",
+      "MO2-Di-269"
+    ]
+  },
+  {
+    "line": "3",
+    "codes": [
+      "MO3-Di-339"
+    ]
+  },
+  {
+    "line": "3B",
+    "codes": [
+      "MO3-As-396",
+      "MO3-Di-397"
+    ]
+  },
+  {
+    "line": "4",
+    "codes": [
+      "MO4-As-434",
+      "MO4-Di-437"
+    ]
+  },
+  {
+    "line": "5",
+    "codes": [
+      "MO5-As-512",
+      "MO5-Di-537"
+    ]
+  },
+  {
+    "line": "5A",
+    "codes": [
+      "MO5-Di-542"
+    ]
+  },
+  {
+    "line": "6",
+    "codes": [
+      "MO6-Di-623"
+    ]
+  },
+  {
+    "line": "6B",
+    "codes": [
+      "MO6-As-622"
+    ]
+  },
+  {
+    "line": "7",
+    "codes": [
+      "MO7-As-703",
+      "MO7-Di-702"
+    ]
+  },
+  {
+    "line": "8",
+    "codes": [
+      "MO8-As-854",
+      "MO8-Di-855"
+    ]
+  },
+  {
+    "line": "9",
+    "codes": [
+      "MO9-As-959",
+      "MO9-As-961",
+      "MO9-Di-990"
+    ]
+  },
+  {
+    "line": "9A",
+    "codes": [
+      "MO9-Di-973"
+    ]
+  },
+  {
+    "line": "9C",
+    "codes": [
+      "MO9-Di-960"
+    ]
+  },
+  {
+    "line": "10",
+    "codes": [
+      "MO10-As-1034"
+    ]
+  },
+  {
+    "line": "11",
+    "codes": [
+      "MO11-As-1137",
+      "MO11-Di-1138"
+    ]
+  },
+  {
+    "line": "12",
+    "codes": [
+      "MO12-As-1280",
+      "MO12-Di-1281"
+    ]
+  },
+  {
+    "line": "13",
+    "codes": [
+      "MO13-As-1323",
+      "MO13-Di-1321"
+    ]
+  },
+  {
+    "line": "400",
+    "codes": [
+      "MO400-As-4454",
+      "MO400-Di-4038"
+    ]
+  },
+  {
+    "line": "410",
+    "codes": [
+      "MO410-As-4195",
+      "MO410-As-4438",
+      "MO410-Di-4429"
+    ]
+  },
+  {
+    "line": "420",
+    "codes": [
+      "MO420-As-4540",
+      "MO420-Di-4555",
+      "MO420-Di-4835"
+    ]
+  },
+  {
+    "line": "430",
+    "codes": [
+      "MO430-As-4589"
+    ]
+  },
+  {
+    "line": "450",
+    "codes": [
+      "MO450-Di-4748"
+    ]
+  },
+  {
+    "line": "500",
+    "codes": [
+      "MO500-Di-5035"
+    ]
+  },
+  {
+    "line": "520",
+    "codes": [
+      "MO520-Di-5315"
+    ]
+  },
+  {
+    "line": "535",
+    "codes": [
+      "MO535-Di-5063"
+    ]
+  },
+  {
+    "line": "550",
+    "codes": [
+      "MO550-Di-5509"
+    ]
+  },
+  {
+    "line": "610",
+    "codes": [
+      "MO610-Di-6115",
+      "MO610-Di-6116"
+    ]
+  },
+  {
+    "line": "630",
+    "codes": [
+      "MO630-As-6306"
+    ]
+  },
+  {
+    "line": "640",
+    "codes": [
+      "MO640-As-6618",
+      "MO640-As-6620"
+    ]
+  },
+  {
+    "line": "670",
+    "codes": [
+      "MO670-As-6764",
+      "MO670-Di-6759"
+    ]
+  },
+  {
+    "line": "675",
+    "codes": [
+      "MO675-Di-6822"
+    ]
+  },
+  {
+    "line": "700",
+    "codes": [
+      "MO700-As-7054"
+    ]
+  },
+  {
+    "line": "710",
+    "codes": [
+      "MO710-Di-7144"
+    ]
+  },
+  {
+    "line": "720",
+    "codes": [
+      "MO720-As-7215",
+      "MO720-Di-7240"
+    ]
+  },
+  {
+    "line": "731",
+    "codes": [
+      "MO731-As-7190",
+      "MO731-As-7597",
+      "MO731-Di-7193"
+    ]
+  },
+  {
+    "line": "740",
+    "codes": [
+      "MO740-As-7573",
+      "MO740-Di-7588"
+    ]
+  },
+  {
+    "line": "760",
+    "codes": [
+      "MO760-As-7866",
+      "MO760-Di-7847",
+      "MO760-Di-7875"
+    ]
+  },
+  {
+    "line": "800",
+    "codes": [
+      "MO800-As-8013",
+      "MO800-As-8018",
+      "MO800-Di-8014"
+    ]
+  },
+  {
+    "line": "810",
+    "codes": [
+      "MO810-Di-8242"
+    ]
+  },
+  {
+    "line": "815",
+    "codes": [
+      "MO815-As-8179"
+    ]
+  },
+  {
+    "line": "820",
+    "codes": [
+      "MO820-As-8030",
+      "MO820-As-8278",
+      "MO820-Di-8267"
+    ]
+  },
+  {
+    "line": "830",
+    "codes": [
+      "MO830-As-8307"
+    ]
+  },
+  {
+    "line": "840",
+    "codes": [
+      "MO840-As-8373",
+      "MO840-As-8415",
+      "MO840-Di-8414"
+    ]
+  },
+  {
+    "line": "845",
+    "codes": [
+      "MO845-Di-8401"
+    ]
+  },
+  {
+    "line": "A",
+    "codes": [
+      "MOA-As-6879",
+      "MOA-Di-6877"
+    ]
+  },
+  {
+    "line": "B",
+    "codes": [
+      "MOB-As-6871",
+      "MOB-Di-6870"
+    ]
+  },
+  {
+    "line": "blu",
+    "codes": [
+      "MOblu-As-5832",
+      "MOblu-Di-5829"
+    ]
+  },
+  {
+    "line": "C",
+    "codes": [
+      "MOC-Di-6982"
+    ]
+  },
+  {
+    "line": "gialla",
+    "codes": [
+      "MOgiall-As-5931",
+      "MOgiall-Di-5930"
+    ]
+  },
+  {
+    "line": "rossa",
+    "codes": [
+      "MOrossa-As-5936",
+      "MOrossa-As-5990",
+      "MOrossa-Di-5947",
+      "MOrossa-Di-5992"
+    ]
+  },
+  {
+    "line": "SCPV",
+    "codes": [
+      "MOSCPV-As-8999"
+    ]
+  },
+  {
+    "line": "verde",
+    "codes": [
+      "MOverde-As-5941",
+      "MOverde-Di-5943"
+    ]
+  }
+]
