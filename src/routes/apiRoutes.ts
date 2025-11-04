@@ -7,9 +7,23 @@ export function createApiRoutes(setaApiService: SetaApiService): Router {
   const router = Router();
   const busController = new BusController(setaApiService);
 
+  // print static info about routes
+  router.get('/', async (_req, res) => {
+    res.json({
+      message: 'Seta Bus API',
+      routes: {
+        arrivals: '/api/arrivals/:stopId',
+        busesInService: '/api/buses-in-service',
+      },
+    });
+  });
+
   router.get('/arrivals/:stopId', asyncHandler(busController.getArrivals));
 
-  router.get('/busesinservice', asyncHandler(busController.getBusesInService));
+  router.get(
+    '/buses-in-service',
+    asyncHandler(busController.getBusesInService),
+  );
 
   return router;
 }

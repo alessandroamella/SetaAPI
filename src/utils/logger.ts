@@ -20,8 +20,8 @@ export class Logger {
 
   constructor(options: LoggerOptions = {}) {
     this.logFile = options.logFile || path.join(process.cwd(), 'app.log');
-    this.enableConsole = options.enableConsole !== false;
-    this.enableFile = options.enableFile !== false;
+    this.enableConsole = options.enableConsole !== false; // default to true
+    this.enableFile = options.enableFile === true; // default to false
     this.dateFormat = options.dateFormat || 'iso';
 
     this.init().catch((err) => {

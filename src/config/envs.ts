@@ -1,4 +1,4 @@
-import { cleanEnv, str, url } from 'envalid';
+import { bool, cleanEnv, str, url } from 'envalid';
 
 // Load environment variables from .env file
 import 'dotenv/config';
@@ -11,4 +11,6 @@ export const envs = cleanEnv(process.env, {
   SETA_NEWS_URL: url(),
   SETA_WAYPOINT_ARRIVAL_URL: url(),
   SETA_ARRIVAL_URL: url(),
+  ENABLE_SETA_API_ROUTES: bool(),
+  ENABLE_STATIC_FILE_ROUTES: bool(),
 });

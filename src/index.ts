@@ -2,6 +2,7 @@ import express from 'express';
 import helmet from 'helmet';
 import { envs } from './config/envs';
 import { createApiRoutes } from './routes/apiRoutes';
+import { createStaticFilesRoutes } from './routes/staticFilesRoutes';
 import { DataUpdateService } from './services/dataUpdateService';
 import { SetaApiService } from './services/SetaApiService';
 import { TransformationService } from './services/transformationService';
@@ -32,7 +33,29 @@ async function bootstrap(): Promise<void> {
   app.use(express.json());
 
   // --- Routes ---
-  app.use('/api', createApiRoutes(setaApiService));
+  // print static info about routes
+  app.get('/', (_req, res) => {
+    res.json({
+      message: 'SetaAPI/fork',
+      routes: {
+        ...(envs.ENABLE_SETA_API_ROUTES ? { api: '/api' } : {}),
+        ...(envs.ENABLE_STATIC_FILE_ROUTES ? { staticFiles: '/static' } : {}),
+      },
+    });
+  });
+
+  if (envs.ENABLE_SETA_API_ROUTES) {
+    logger.info('Enabling Seta API routes');
+    app.use('/api', createApiRoutes(setaApiService));
+  } else {
+    logger.warn('Seta API routes are disabled');
+  }
+  if (envs.ENABLE_STATIC_FILE_ROUTES) {
+    logger.info('Enabling Static Files routes');
+    app.use('/static', createStaticFilesRoutes());
+  } else {
+    logger.warn('Static Files routes are disabled');
+  }
 
   // --- Global Error Handling ---
   app.use(logError);
